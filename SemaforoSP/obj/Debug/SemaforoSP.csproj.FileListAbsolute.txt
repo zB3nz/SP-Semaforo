@@ -1,0 +1,10 @@
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\obj\Debug\SemaforoSP.csprojAssemblyReference.cache
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\obj\Debug\SemaforoSP.Semaforo.resources
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\obj\Debug\SemaforoSP.Properties.Resources.resources
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\obj\Debug\SemaforoSP.csproj.GenerateResource.cache
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\obj\Debug\SemaforoSP.csproj.CoreCompileInputs.cache
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\bin\Debug\SemaforoSP.exe.config
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\bin\Debug\SemaforoSP.exe
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\bin\Debug\SemaforoSP.pdb
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\obj\Debug\SemaforoSP.exe
+C:\Users\Zyker\source\repos\SemaforoSP\SemaforoSP\obj\Debug\SemaforoSP.pdb
